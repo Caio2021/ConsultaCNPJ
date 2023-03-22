@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Hz3SuO7OEiiTM/KXU6KOLpjOInNoWz6b4HE+wJIDKX6sXf7hpKsz1EH4tDf/gx6yUldmN37r7lY4yWXhw6ZKjw==",
+  "success": true,
+  "projectFilePath": "Z:\\Desenvolvimento\\consulta-cnpj-receitaws-master\\ReceitaWS\\ReceitaWS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\caio.ribeiro\\.nuget\\packages\\litedb\\5.0.10\\litedb.5.0.10.nupkg.sha512",
+    "C:\\Users\\caio.ribeiro\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

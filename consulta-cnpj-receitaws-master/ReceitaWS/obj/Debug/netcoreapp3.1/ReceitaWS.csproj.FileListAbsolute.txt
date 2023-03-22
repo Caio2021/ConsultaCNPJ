@@ -1,0 +1,49 @@
+C:\Users\yan.pereira\Downloads\consulta-cnpj-receitaws-master\ReceitaWS\bin\Debug\netcoreapp3.1\ReceitaWS.exe
+C:\Users\yan.pereira\Downloads\consulta-cnpj-receitaws-master\ReceitaWS\bin\Debug\netcoreapp3.1\ReceitaWS.deps.json
+C:\Users\yan.pereira\Downloads\consulta-cnpj-receitaws-master\ReceitaWS\bin\Debug\netcoreapp3.1\ReceitaWS.runtimeconfig.json
+C:\Users\yan.pereira\Downloads\consulta-cnpj-receitaws-master\ReceitaWS\bin\Debug\netcoreapp3.1\ReceitaWS.runtimeconfig.dev.json
+C:\Users\yan.pereira\Downloads\consulta-cnpj-receitaws-master\ReceitaWS\bin\Debug\netcoreapp3.1\ReceitaWS.dll
+C:\Users\yan.pereira\Downloads\consulta-cnpj-receitaws-master\ReceitaWS\bin\Debug\netcoreapp3.1\ReceitaWS.pdb
+C:\Users\yan.pereira\Downloads\consulta-cnpj-receitaws-master\ReceitaWS\bin\Debug\netcoreapp3.1\LiteDB.dll
+C:\Users\yan.pereira\Downloads\consulta-cnpj-receitaws-master\ReceitaWS\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\yan.pereira\Downloads\consulta-cnpj-receitaws-master\ReceitaWS\obj\Debug\netcoreapp3.1\ReceitaWS.csproj.AssemblyReference.cache
+C:\Users\yan.pereira\Downloads\consulta-cnpj-receitaws-master\ReceitaWS\obj\Debug\netcoreapp3.1\ReceitaWS.AssemblyInfoInputs.cache
+C:\Users\yan.pereira\Downloads\consulta-cnpj-receitaws-master\ReceitaWS\obj\Debug\netcoreapp3.1\ReceitaWS.AssemblyInfo.cs
+C:\Users\yan.pereira\Downloads\consulta-cnpj-receitaws-master\ReceitaWS\obj\Debug\netcoreapp3.1\ReceitaWS.csproj.CoreCompileInputs.cache
+C:\Users\yan.pereira\Downloads\consulta-cnpj-receitaws-master\ReceitaWS\obj\Debug\netcoreapp3.1\ReceitaWS.csproj.CopyComplete
+C:\Users\yan.pereira\Downloads\consulta-cnpj-receitaws-master\ReceitaWS\obj\Debug\netcoreapp3.1\ReceitaWS.dll
+C:\Users\yan.pereira\Downloads\consulta-cnpj-receitaws-master\ReceitaWS\obj\Debug\netcoreapp3.1\ReceitaWS.pdb
+C:\Users\yan.pereira\Downloads\consulta-cnpj-receitaws-master\ReceitaWS\obj\Debug\netcoreapp3.1\ReceitaWS.genruntimeconfig.cache
+T:\Tributo Justo\TI\consulta-cnpj-receitaws-master\ReceitaWS\bin\Debug\netcoreapp3.1\ReceitaWS.exe
+T:\Tributo Justo\TI\consulta-cnpj-receitaws-master\ReceitaWS\bin\Debug\netcoreapp3.1\ReceitaWS.deps.json
+T:\Tributo Justo\TI\consulta-cnpj-receitaws-master\ReceitaWS\bin\Debug\netcoreapp3.1\ReceitaWS.runtimeconfig.json
+T:\Tributo Justo\TI\consulta-cnpj-receitaws-master\ReceitaWS\bin\Debug\netcoreapp3.1\ReceitaWS.runtimeconfig.dev.json
+T:\Tributo Justo\TI\consulta-cnpj-receitaws-master\ReceitaWS\bin\Debug\netcoreapp3.1\ReceitaWS.dll
+T:\Tributo Justo\TI\consulta-cnpj-receitaws-master\ReceitaWS\bin\Debug\netcoreapp3.1\ReceitaWS.pdb
+T:\Tributo Justo\TI\consulta-cnpj-receitaws-master\ReceitaWS\bin\Debug\netcoreapp3.1\LiteDB.dll
+T:\Tributo Justo\TI\consulta-cnpj-receitaws-master\ReceitaWS\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+T:\Tributo Justo\TI\consulta-cnpj-receitaws-master\ReceitaWS\obj\Debug\netcoreapp3.1\ReceitaWS.csproj.AssemblyReference.cache
+T:\Tributo Justo\TI\consulta-cnpj-receitaws-master\ReceitaWS\obj\Debug\netcoreapp3.1\ReceitaWS.AssemblyInfoInputs.cache
+T:\Tributo Justo\TI\consulta-cnpj-receitaws-master\ReceitaWS\obj\Debug\netcoreapp3.1\ReceitaWS.AssemblyInfo.cs
+T:\Tributo Justo\TI\consulta-cnpj-receitaws-master\ReceitaWS\obj\Debug\netcoreapp3.1\ReceitaWS.csproj.CoreCompileInputs.cache
+T:\Tributo Justo\TI\consulta-cnpj-receitaws-master\ReceitaWS\obj\Debug\netcoreapp3.1\ReceitaWS.csproj.CopyComplete
+T:\Tributo Justo\TI\consulta-cnpj-receitaws-master\ReceitaWS\obj\Debug\netcoreapp3.1\ReceitaWS.dll
+T:\Tributo Justo\TI\consulta-cnpj-receitaws-master\ReceitaWS\obj\Debug\netcoreapp3.1\ReceitaWS.pdb
+T:\Tributo Justo\TI\consulta-cnpj-receitaws-master\ReceitaWS\obj\Debug\netcoreapp3.1\ReceitaWS.genruntimeconfig.cache
+Z:\Desenvolvimento\consulta-cnpj-receitaws-master\ReceitaWS\bin\Debug\netcoreapp3.1\ReceitaWS.exe
+Z:\Desenvolvimento\consulta-cnpj-receitaws-master\ReceitaWS\bin\Debug\netcoreapp3.1\ReceitaWS.deps.json
+Z:\Desenvolvimento\consulta-cnpj-receitaws-master\ReceitaWS\bin\Debug\netcoreapp3.1\ReceitaWS.runtimeconfig.json
+Z:\Desenvolvimento\consulta-cnpj-receitaws-master\ReceitaWS\bin\Debug\netcoreapp3.1\ReceitaWS.runtimeconfig.dev.json
+Z:\Desenvolvimento\consulta-cnpj-receitaws-master\ReceitaWS\bin\Debug\netcoreapp3.1\ReceitaWS.dll
+Z:\Desenvolvimento\consulta-cnpj-receitaws-master\ReceitaWS\bin\Debug\netcoreapp3.1\ReceitaWS.pdb
+Z:\Desenvolvimento\consulta-cnpj-receitaws-master\ReceitaWS\bin\Debug\netcoreapp3.1\LiteDB.dll
+Z:\Desenvolvimento\consulta-cnpj-receitaws-master\ReceitaWS\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+Z:\Desenvolvimento\consulta-cnpj-receitaws-master\ReceitaWS\obj\Debug\netcoreapp3.1\ReceitaWS.csproj.AssemblyReference.cache
+Z:\Desenvolvimento\consulta-cnpj-receitaws-master\ReceitaWS\obj\Debug\netcoreapp3.1\ReceitaWS.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Desenvolvimento\consulta-cnpj-receitaws-master\ReceitaWS\obj\Debug\netcoreapp3.1\ReceitaWS.AssemblyInfoInputs.cache
+Z:\Desenvolvimento\consulta-cnpj-receitaws-master\ReceitaWS\obj\Debug\netcoreapp3.1\ReceitaWS.AssemblyInfo.cs
+Z:\Desenvolvimento\consulta-cnpj-receitaws-master\ReceitaWS\obj\Debug\netcoreapp3.1\ReceitaWS.csproj.CoreCompileInputs.cache
+Z:\Desenvolvimento\consulta-cnpj-receitaws-master\ReceitaWS\obj\Debug\netcoreapp3.1\ReceitaWS.csproj.CopyComplete
+Z:\Desenvolvimento\consulta-cnpj-receitaws-master\ReceitaWS\obj\Debug\netcoreapp3.1\ReceitaWS.dll
+Z:\Desenvolvimento\consulta-cnpj-receitaws-master\ReceitaWS\obj\Debug\netcoreapp3.1\ReceitaWS.pdb
+Z:\Desenvolvimento\consulta-cnpj-receitaws-master\ReceitaWS\obj\Debug\netcoreapp3.1\ReceitaWS.genruntimeconfig.cache
